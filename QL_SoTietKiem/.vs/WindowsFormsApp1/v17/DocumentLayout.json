@@ -1,0 +1,763 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\connectdb\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:connectdb\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|c:\\users\\ngova\\downloads\\ql_sotietkiem\\ql_sotietkiem\\giaodienchinh\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|c:\\users\\ngova\\downloads\\ql_sotietkiem\\ql_sotietkiem\\giaodienchinh\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmthongtinso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:frmthongtinso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmluonggiaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:frmluonggiaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\fguithemvon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:fguithemvon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\fgiahanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:fgiahanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\finphieugiaodichrut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:finphieugiaodichrut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\finphieugiaodichrut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:finphieugiaodichrut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\finphieurutso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:finphieurutso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmtopkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:frmtopkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\phieuguitien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:phieuguitien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\reporttopdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:reporttopdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\thongkegiaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:thongkegiaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\thongtinchinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:thongtinchinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\finphieurutso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:finphieurutso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\editperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:editperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\chinhsualoailx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:chinhsualoailx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\resources\\login.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:resources\\login.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\resources\\f4734097120d43e0b015841c297c4031.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:resources\\f4734097120d43e0b015841c297c4031.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\resources\\bf5f6a63795e4f0a9aef7df08b2a538e.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:resources\\bf5f6a63795e4f0a9aef7df08b2a538e.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1)1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1)1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1).png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1).png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\resources\\7e0c8d2e412f4676b52e692542423cd8.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:resources\\7e0c8d2e412f4676b52e692542423cd8.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\resources\\49c90bbf9457451085d073c838d9c988.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:resources\\49c90bbf9457451085d073c838d9c988.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\resources\\49c90bbf9457451085d073c838d9c988 (1).png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:resources\\49c90bbf9457451085d073c838d9c988 (1).png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\mainformmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:mainformmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\mainformstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:mainformstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\mainformmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:mainformmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmthongtinso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:frmthongtinso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmluonggiaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:frmluonggiaodich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:forgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\rjcontrols\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:rjcontrols\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\passbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:passbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\mainformstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:mainformstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C0C89DE8-B130-453A-9F3F-89902668EB19}|WindowsFormsApp1.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T08:24:11.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmThongtinso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmThongtinso.cs",
+              "RelativeDocumentMoniker": "frmThongtinso.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\frmThongtinso.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\frmThongtinso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:12.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\dataProvider.cs",
+              "RelativeDocumentMoniker": "dataProvider.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\dataProvider.cs",
+              "RelativeToolTip": "dataProvider.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAMwEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:58:53.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmAccount.cs",
+              "RelativeDocumentMoniker": "frmAccount.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\frmAccount.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\frmAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:29.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:01:10.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:33.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\ConnectDB\\DataProvider.cs",
+              "RelativeDocumentMoniker": "ConnectDB\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\ConnectDB\\DataProvider.cs",
+              "RelativeToolTip": "ConnectDB\\DataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:00:22.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fGuiThemVon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\fGuiThemVon.cs",
+              "RelativeDocumentMoniker": "fGuiThemVon.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\fGuiThemVon.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\fGuiThemVon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:41.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fGiaHanSo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\fGiaHanSo.cs",
+              "RelativeDocumentMoniker": "fGiaHanSo.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\fGiaHanSo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\fGiaHanSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:43.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLuongGiaoDich.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmLuongGiaoDich.cs",
+              "RelativeDocumentMoniker": "frmLuongGiaoDich.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\frmLuongGiaoDich.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\frmLuongGiaoDich.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:28.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fInPhieuGiaoDichRut.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\fInPhieuGiaoDichRut.cs",
+              "RelativeDocumentMoniker": "fInPhieuGiaoDichRut.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\fInPhieuGiaoDichRut.cs",
+              "RelativeToolTip": "fInPhieuGiaoDichRut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:01:00.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fInPhieuGiaoDichRut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\fInPhieuGiaoDichRut.cs",
+              "RelativeDocumentMoniker": "fInPhieuGiaoDichRut.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\fInPhieuGiaoDichRut.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\fInPhieuGiaoDichRut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:39.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fInPhieuRutSo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\fInPhieuRutSo.cs",
+              "RelativeDocumentMoniker": "fInPhieuRutSo.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\fInPhieuRutSo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\fInPhieuRutSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:38.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "khachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\khachHang.cs",
+              "RelativeDocumentMoniker": "khachHang.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\khachHang.cs",
+              "RelativeToolTip": "khachHang.cs",
+              "ViewState": "AgIAAF8CAAAAAAAAAAAEwEoCAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:16:41.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "khachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\khachHang.cs",
+              "RelativeDocumentMoniker": "khachHang.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\khachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\khachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:55.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmTopKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmTopKhachHang.cs",
+              "RelativeDocumentMoniker": "frmTopKhachHang.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\frmTopKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\frmTopKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:17.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-14T08:05:46.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:05:43.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportTopDeposit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\ReportTopDeposit.cs",
+              "RelativeDocumentMoniker": "ReportTopDeposit.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\ReportTopDeposit.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\ReportTopDeposit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:16:14.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "thongKeGiaoDich.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\thongKeGiaoDich.cs",
+              "RelativeDocumentMoniker": "thongKeGiaoDich.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\thongKeGiaoDich.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\thongKeGiaoDich.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:16:13.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThongTinChinhSach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\ThongTinChinhSach.cs",
+              "RelativeDocumentMoniker": "ThongTinChinhSach.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\ThongTinChinhSach.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\ThongTinChinhSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:05:28.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:00:10.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "phieuGuiTien.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\phieuGuiTien.cs",
+              "RelativeDocumentMoniker": "phieuGuiTien.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\phieuGuiTien.cs",
+              "RelativeToolTip": "phieuGuiTien.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:16:17.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ForgotPass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\ForgotPass.cs",
+              "RelativeDocumentMoniker": "ForgotPass.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\ForgotPass.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\ForgotPass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:37.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fInPhieuRutSo.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\fInPhieuRutSo.cs",
+              "RelativeDocumentMoniker": "fInPhieuRutSo.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\fInPhieuRutSo.cs",
+              "RelativeToolTip": "fInPhieuRutSo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:52:04.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "editPerson.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\editPerson.cs",
+              "RelativeDocumentMoniker": "editPerson.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\editPerson.cs",
+              "RelativeToolTip": "editPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:44.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChinhSuaLoaiLX.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\ChinhSuaLoaiLX.cs",
+              "RelativeDocumentMoniker": "ChinhSuaLoaiLX.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\ChinhSuaLoaiLX.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\ChinhSuaLoaiLX.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:51:51.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "login.png",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\login.png",
+              "RelativeDocumentMoniker": "Resources\\login.png",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\login.png",
+              "RelativeToolTip": "Resources\\login.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-14T07:52:08.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "f4734097120d43e0b015841c297c4031.png",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\f4734097120d43e0b015841c297c4031.png",
+              "RelativeDocumentMoniker": "Resources\\f4734097120d43e0b015841c297c4031.png",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\f4734097120d43e0b015841c297c4031.png",
+              "RelativeToolTip": "Resources\\f4734097120d43e0b015841c297c4031.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-14T08:03:35.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "bf5f6a63795e4f0a9aef7df08b2a538e.png",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\bf5f6a63795e4f0a9aef7df08b2a538e.png",
+              "RelativeDocumentMoniker": "Resources\\bf5f6a63795e4f0a9aef7df08b2a538e.png",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\bf5f6a63795e4f0a9aef7df08b2a538e.png",
+              "RelativeToolTip": "Resources\\bf5f6a63795e4f0a9aef7df08b2a538e.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-14T08:03:33.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "bf5f6a63795e4f0a9aef7df08b2a538e (1)1.png",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1)1.png",
+              "RelativeDocumentMoniker": "Resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1)1.png",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1)1.png",
+              "RelativeToolTip": "Resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1)1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-14T08:03:31.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bf5f6a63795e4f0a9aef7df08b2a538e (1).png",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1).png",
+              "RelativeDocumentMoniker": "Resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1).png",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1).png",
+              "RelativeToolTip": "Resources\\bf5f6a63795e4f0a9aef7df08b2a538e (1).png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-14T08:03:30.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "7e0c8d2e412f4676b52e692542423cd8.png",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\7e0c8d2e412f4676b52e692542423cd8.png",
+              "RelativeDocumentMoniker": "Resources\\7e0c8d2e412f4676b52e692542423cd8.png",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\7e0c8d2e412f4676b52e692542423cd8.png",
+              "RelativeToolTip": "Resources\\7e0c8d2e412f4676b52e692542423cd8.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-14T08:03:27.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "49c90bbf9457451085d073c838d9c988.png",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\49c90bbf9457451085d073c838d9c988.png",
+              "RelativeDocumentMoniker": "Resources\\49c90bbf9457451085d073c838d9c988.png",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\49c90bbf9457451085d073c838d9c988.png",
+              "RelativeToolTip": "Resources\\49c90bbf9457451085d073c838d9c988.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-14T08:03:25.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "49c90bbf9457451085d073c838d9c988 (1).png",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\49c90bbf9457451085d073c838d9c988 (1).png",
+              "RelativeDocumentMoniker": "Resources\\49c90bbf9457451085d073c838d9c988 (1).png",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Resources\\49c90bbf9457451085d073c838d9c988 (1).png",
+              "RelativeToolTip": "Resources\\49c90bbf9457451085d073c838d9c988 (1).png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-14T08:03:23.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:57.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MainFormManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\MainFormManager.cs",
+              "RelativeDocumentMoniker": "MainFormManager.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\MainFormManager.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\MainFormManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:19.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MainFormStaff.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\MainFormStaff.cs",
+              "RelativeDocumentMoniker": "MainFormStaff.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\MainFormStaff.cs",
+              "RelativeToolTip": "MainFormStaff.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:02:49.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainFormManager.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\MainFormManager.cs",
+              "RelativeDocumentMoniker": "MainFormManager.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\MainFormManager.cs",
+              "RelativeToolTip": "MainFormManager.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:02:40.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmThongtinso.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmThongtinso.cs",
+              "RelativeDocumentMoniker": "frmThongtinso.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmThongtinso.cs",
+              "RelativeToolTip": "frmThongtinso.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:02:05.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmLuongGiaoDich.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmLuongGiaoDich.cs",
+              "RelativeDocumentMoniker": "frmLuongGiaoDich.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmLuongGiaoDich.cs",
+              "RelativeToolTip": "frmLuongGiaoDich.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:01:52.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmAccount.cs",
+              "RelativeDocumentMoniker": "frmAccount.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\frmAccount.cs",
+              "RelativeToolTip": "frmAccount.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:01:48.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ForgotPass.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\ForgotPass.cs",
+              "RelativeDocumentMoniker": "ForgotPass.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\ForgotPass.cs",
+              "RelativeToolTip": "ForgotPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:01:07.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RjButton.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\RJControls\\RjButton.cs",
+              "RelativeDocumentMoniker": "RJControls\\RjButton.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\RJControls\\RjButton.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\RJControls\\RjButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:00:18.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Passbook.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Passbook.cs",
+              "RelativeDocumentMoniker": "Passbook.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Passbook.cs",
+              "RelativeToolTip": "Passbook.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:16:19.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:16:18.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MainFormStaff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\MainFormStaff.cs",
+              "RelativeDocumentMoniker": "MainFormStaff.cs",
+              "ToolTip": "C:\\Users\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\MainFormStaff.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\E5540\\source\\repos\\QL_SoTietKiem\\Giaodienchinh\\MainFormStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:25.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\ngova\\Downloads\\QL_SoTietKiem\\QL_SoTietKiem\\Giaodienchinh\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T07:16:21.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
